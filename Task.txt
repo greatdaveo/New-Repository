@@ -1,0 +1,14 @@
+TASK
+
+* Implement an API fetch of your GitHub portfolio
+* Show a page with list of all your repositories on GITHUB (the page should implement pagination for the repo list), and create another page showing data for a single repo clicked from the list repos using nested routes while using all the necessary tools in react.
+* Implement the proper SEO, Error Boundary (show a page to test the error boundary) and 404 pages.
+* Good UI and Designs are important.
+
+
+
+Api url: https://docs.github.com/rest
+        https://api.github.com/users/greatdaveo
+        https://api.github.com/users/greatdaveo/repo
+
+
